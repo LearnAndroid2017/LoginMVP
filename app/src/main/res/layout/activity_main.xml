@@ -61,4 +61,11 @@
         android:id="@+id/textView2"
         android:layout_below="@+id/button2"
         android:layout_centerHorizontal="true" />
+
+    <ProgressBar
+        android:id="@+id/progress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView2"
+        android:visibility="gone"/>
 </RelativeLayout>

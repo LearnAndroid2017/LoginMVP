@@ -8,4 +8,5 @@
     <string name="form">Form</string>
     <string name="signup">SignUp</string>
     <string name="gotosignin">Go to SignIn</string>
+    <string name="setting">Setting</string>
 </resources>
